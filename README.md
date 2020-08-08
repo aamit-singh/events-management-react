@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+- this project uses events-managment api also present as a repository in my account.
+- for the project to work, you need to set the urls using the comments in each page.
+- if u wish to just view project in action try out the events-management-spa repository.
+
 ## Available Scripts
 
 In the project directory, you can run:
